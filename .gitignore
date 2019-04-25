@@ -1,0 +1,6 @@
+.stack-work/
+miniJavaGen.cabal
+*~
+*.java
+right-samples
+wrong-samples
